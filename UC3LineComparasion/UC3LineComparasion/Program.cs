@@ -1,18 +1,18 @@
 ﻿using System;
 
-namespace UC2LineComparasion
+namespace UC3LineComparasion
 {
-   public class LineComparasion
+    public class LineComparasion
     {
         public static void Main(string[] args)
         {
 
             //comparing two lines L1 and L2
             //1st part line no 1 : L1
-           
+
             Console.WriteLine("Enter values for Line no 1: ");
             Console.WriteLine("Enter Value of : X1");
-         //string value converted to integer
+            //string value converted to integer
 
             int X1 = Convert.ToInt32(Console.ReadLine());
 
@@ -43,7 +43,7 @@ namespace UC2LineComparasion
             int X4 = Convert.ToInt32(Console.ReadLine());
 
 
-            Console.WriteLine("Enter Value of : Y3");          
+            Console.WriteLine("Enter Value of : Y3");
             int Y3 = Convert.ToInt32(Console.ReadLine());
 
 
@@ -66,10 +66,14 @@ namespace UC2LineComparasion
             {
                 Console.WriteLine("BOTH LINES ARE EQUAL");
             }
-            
+
+            else if (L1 > L2)
+            {
+                Console.WriteLine("L1 IS GREATER THAN L2");
+            }
             else
             {
-                Console.WriteLine("BOTH LINES ARE NOT EQUAL");
+                Console.WriteLine("L1 IS LESS THAN L2");
             }
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\bin\Debug\net6.0\UC3LineComparasion.exe
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\bin\Debug\net6.0\UC3LineComparasion.deps.json
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\bin\Debug\net6.0\UC3LineComparasion.runtimeconfig.json
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\bin\Debug\net6.0\UC3LineComparasion.dll
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\bin\Debug\net6.0\UC3LineComparasion.pdb
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.csproj.AssemblyReference.cache
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.AssemblyInfoInputs.cache
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.AssemblyInfo.cs
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.csproj.CoreCompileInputs.cache
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.dll
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\refint\UC3LineComparasion.dll
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.pdb
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\UC3LineComparasion.genruntimeconfig.cache
+C:\Users\Hemant\source\repos\UC3LineComparasion\UC3LineComparasion\obj\Debug\net6.0\ref\UC3LineComparasion.dll
